@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerUI", "LayerUI.csproj", "{191B233B-0419-45E0-84E9-4EC6C370AFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerData", "..\LayerData\LayerData.csproj", "{246BBC5A-A6C5-4C65-83A0-816D0E8A62EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerBusiness", "..\LayerBusiness\LayerBusiness.csproj", "{2AEA6D6A-21CB-4C86-9113-3E31EB0BC528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191B233B-0419-45E0-84E9-4EC6C370AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191B233B-0419-45E0-84E9-4EC6C370AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191B233B-0419-45E0-84E9-4EC6C370AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191B233B-0419-45E0-84E9-4EC6C370AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246BBC5A-A6C5-4C65-83A0-816D0E8A62EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246BBC5A-A6C5-4C65-83A0-816D0E8A62EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246BBC5A-A6C5-4C65-83A0-816D0E8A62EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246BBC5A-A6C5-4C65-83A0-816D0E8A62EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEA6D6A-21CB-4C86-9113-3E31EB0BC528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEA6D6A-21CB-4C86-9113-3E31EB0BC528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEA6D6A-21CB-4C86-9113-3E31EB0BC528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEA6D6A-21CB-4C86-9113-3E31EB0BC528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04CDC79-89B4-49F8-A76E-979963660EE8}
+	EndGlobalSection
+EndGlobal
